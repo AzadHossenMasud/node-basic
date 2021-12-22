@@ -1,0 +1,14 @@
+{
+  "name": "nodebasic",
+  "version": "1.0.0",
+  "description": "This will be my node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
